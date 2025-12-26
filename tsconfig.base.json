@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "module": "esnext",
+    "jsx": "react-jsx",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "types": ["react", "react-native"],
+    "baseUrl": "./",
+    "paths": {
+      "@app/*": ["src/*"],
+      "@data/*": ["src/data/*"],
+      "@screens/*": ["src/screens/*"],
+      "@components/*": ["src/components/*"]
+    }
+  }
+}

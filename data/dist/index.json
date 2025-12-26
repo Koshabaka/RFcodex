@@ -1,0 +1,1458 @@
+{
+  "version": 1,
+  "locale": "ru-RU",
+  "tokenizer": "rf-simple-tokenizer@1",
+  "documents": {
+    "gk-part1-1": {
+      "id": "gk-part1-1",
+      "codeId": "gk",
+      "articleId": "gk-part1-1",
+      "title": "Основные начала гражданского законодательства",
+      "number": "1",
+      "breadcrumbs": [
+        "ГК РФ",
+        "Часть I",
+        "Глава 1"
+      ],
+      "text": "Гражданское законодательство основывается на признании равенства участников, неприкосновенности собственности, свободе договора, недопустимости произвольного вмешательства кого-либо в частные дела."
+    },
+    "gk-part1-2": {
+      "id": "gk-part1-2",
+      "codeId": "gk",
+      "articleId": "gk-part1-2",
+      "title": "Отношения, регулируемые гражданским законодательством",
+      "number": "2",
+      "breadcrumbs": [
+        "ГК РФ",
+        "Часть I",
+        "Глава 1"
+      ],
+      "text": "Гражданское законодательство регулирует имущественные и связанные с ними личные неимущественные отношения, основанные на равенстве, автономии воли и имущественной самостоятельности участников."
+    },
+    "uk-general-14": {
+      "id": "uk-general-14",
+      "codeId": "uk",
+      "articleId": "uk-general-14",
+      "title": "Понятие преступления",
+      "number": "14",
+      "breadcrumbs": [
+        "УК РФ",
+        "Раздел I",
+        "Глава 3"
+      ],
+      "text": "Преступлением признается виновно совершенное общественно опасное деяние, запрещенное настоящим Кодексом под угрозой наказания."
+    },
+    "uk-general-15": {
+      "id": "uk-general-15",
+      "codeId": "uk",
+      "articleId": "uk-general-15",
+      "title": "Категории преступлений",
+      "number": "15",
+      "breadcrumbs": [
+        "УК РФ",
+        "Раздел I",
+        "Глава 3"
+      ],
+      "text": "Все преступления по характеру и степени общественной опасности подразделяются на преступления небольшой тяжести, средней тяжести, тяжкие и особо тяжкие."
+    }
+  },
+  "tokens": {
+    "1": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 3.4,
+        "positions": [
+          1,
+          0
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 1.4,
+        "positions": [
+          1
+        ]
+      }
+    ],
+    "2": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 2,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "3": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1.4,
+        "positions": [
+          1
+        ]
+      },
+      {
+        "docId": "uk-general-15",
+        "weight": 1.4,
+        "positions": [
+          1
+        ]
+      }
+    ],
+    "14": [
+      {
+        "docId": "uk-general-14",
+        "weight": 2,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "15": [
+      {
+        "docId": "uk-general-15",
+        "weight": 2,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "основные": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 3,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "осн*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 4,
+        "positions": [
+          0,
+          2
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          11
+        ]
+      }
+    ],
+    "начала": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 3,
+        "positions": [
+          1
+        ]
+      }
+    ],
+    "нач*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 3,
+        "positions": [
+          1
+        ]
+      }
+    ],
+    "гражданского": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 3,
+        "positions": [
+          2
+        ]
+      }
+    ],
+    "гра*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 4,
+        "positions": [
+          2,
+          0
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 4,
+        "positions": [
+          2,
+          0
+        ]
+      }
+    ],
+    "законодательства": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 3,
+        "positions": [
+          3
+        ]
+      }
+    ],
+    "зак*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 4,
+        "positions": [
+          3,
+          1
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 4,
+        "positions": [
+          3,
+          1
+        ]
+      }
+    ],
+    "гк": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 2,
+        "positions": [
+          0
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 2,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "рф": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 2,
+        "positions": [
+          1
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 2,
+        "positions": [
+          1
+        ]
+      },
+      {
+        "docId": "uk-general-14",
+        "weight": 2,
+        "positions": [
+          1
+        ]
+      },
+      {
+        "docId": "uk-general-15",
+        "weight": 2,
+        "positions": [
+          1
+        ]
+      }
+    ],
+    "часть": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1.7,
+        "positions": [
+          0
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 1.7,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "час*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 2.7,
+        "positions": [
+          0,
+          17
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 1.7,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "i": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1.7,
+        "positions": [
+          1
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 1.7,
+        "positions": [
+          1
+        ]
+      },
+      {
+        "docId": "uk-general-14",
+        "weight": 1.7,
+        "positions": [
+          1
+        ]
+      },
+      {
+        "docId": "uk-general-15",
+        "weight": 1.7,
+        "positions": [
+          1
+        ]
+      }
+    ],
+    "глава": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1.4,
+        "positions": [
+          0
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 1.4,
+        "positions": [
+          0
+        ]
+      },
+      {
+        "docId": "uk-general-14",
+        "weight": 1.4,
+        "positions": [
+          0
+        ]
+      },
+      {
+        "docId": "uk-general-15",
+        "weight": 1.4,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "гла*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1.4,
+        "positions": [
+          0
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 1.4,
+        "positions": [
+          0
+        ]
+      },
+      {
+        "docId": "uk-general-14",
+        "weight": 1.4,
+        "positions": [
+          0
+        ]
+      },
+      {
+        "docId": "uk-general-15",
+        "weight": 1.4,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "гражданское": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          0
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "законодательство": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          1
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          1
+        ]
+      }
+    ],
+    "основывается": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          2
+        ]
+      }
+    ],
+    "признании": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          4
+        ]
+      }
+    ],
+    "при*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          4
+        ]
+      },
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          1
+        ]
+      }
+    ],
+    "равенства": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          5
+        ]
+      }
+    ],
+    "рав*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          5
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          13
+        ]
+      }
+    ],
+    "участников": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          6
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          19
+        ]
+      }
+    ],
+    "уча*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          6
+        ]
+      },
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          19
+        ]
+      }
+    ],
+    "неприкосновенности": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          7
+        ]
+      }
+    ],
+    "неп*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          7
+        ]
+      }
+    ],
+    "собственности": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          8
+        ]
+      }
+    ],
+    "соб*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          8
+        ]
+      }
+    ],
+    "свободе": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          9
+        ]
+      }
+    ],
+    "сво*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          9
+        ]
+      }
+    ],
+    "договора": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          10
+        ]
+      }
+    ],
+    "дог*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          10
+        ]
+      }
+    ],
+    "недопустимости": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          11
+        ]
+      }
+    ],
+    "нед*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          11
+        ]
+      }
+    ],
+    "произвольного": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          12
+        ]
+      }
+    ],
+    "про*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          12
+        ]
+      }
+    ],
+    "вмешательства": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          13
+        ]
+      }
+    ],
+    "вме*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          13
+        ]
+      }
+    ],
+    "кого": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          14
+        ]
+      }
+    ],
+    "ког*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          14
+        ]
+      }
+    ],
+    "либо": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          15
+        ]
+      }
+    ],
+    "либ*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          15
+        ]
+      }
+    ],
+    "частные": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          17
+        ]
+      }
+    ],
+    "дела": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          18
+        ]
+      }
+    ],
+    "дел*": [
+      {
+        "docId": "gk-part1-1",
+        "weight": 1,
+        "positions": [
+          18
+        ]
+      }
+    ],
+    "отношения": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 4,
+        "positions": [
+          0,
+          10
+        ]
+      }
+    ],
+    "отн*": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 4,
+        "positions": [
+          0,
+          10
+        ]
+      }
+    ],
+    "регулируемые": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 3,
+        "positions": [
+          1
+        ]
+      }
+    ],
+    "рег*": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 4,
+        "positions": [
+          1,
+          2
+        ]
+      }
+    ],
+    "гражданским": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 3,
+        "positions": [
+          2
+        ]
+      }
+    ],
+    "законодательством": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 3,
+        "positions": [
+          3
+        ]
+      }
+    ],
+    "регулирует": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          2
+        ]
+      }
+    ],
+    "имущественные": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          3
+        ]
+      }
+    ],
+    "иму*": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 2,
+        "positions": [
+          3,
+          17
+        ]
+      }
+    ],
+    "связанные": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          5
+        ]
+      }
+    ],
+    "свя*": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          5
+        ]
+      }
+    ],
+    "ними": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          7
+        ]
+      }
+    ],
+    "ним*": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          7
+        ]
+      }
+    ],
+    "личные": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          8
+        ]
+      }
+    ],
+    "лич*": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          8
+        ]
+      }
+    ],
+    "неимущественные": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          9
+        ]
+      }
+    ],
+    "неи*": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          9
+        ]
+      }
+    ],
+    "основанные": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          11
+        ]
+      }
+    ],
+    "равенстве": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          13
+        ]
+      }
+    ],
+    "автономии": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          14
+        ]
+      }
+    ],
+    "авт*": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          14
+        ]
+      }
+    ],
+    "воли": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          15
+        ]
+      }
+    ],
+    "вол*": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          15
+        ]
+      }
+    ],
+    "имущественной": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          17
+        ]
+      }
+    ],
+    "самостоятельности": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          18
+        ]
+      }
+    ],
+    "сам*": [
+      {
+        "docId": "gk-part1-2",
+        "weight": 1,
+        "positions": [
+          18
+        ]
+      }
+    ],
+    "понятие": [
+      {
+        "docId": "uk-general-14",
+        "weight": 3,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "пон*": [
+      {
+        "docId": "uk-general-14",
+        "weight": 3,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "преступления": [
+      {
+        "docId": "uk-general-14",
+        "weight": 3,
+        "positions": [
+          1
+        ]
+      },
+      {
+        "docId": "uk-general-15",
+        "weight": 2,
+        "positions": [
+          1,
+          10
+        ]
+      }
+    ],
+    "пре*": [
+      {
+        "docId": "uk-general-15",
+        "weight": 5,
+        "positions": [
+          1,
+          1,
+          10
+        ]
+      },
+      {
+        "docId": "uk-general-14",
+        "weight": 4,
+        "positions": [
+          1,
+          0
+        ]
+      }
+    ],
+    "ук": [
+      {
+        "docId": "uk-general-14",
+        "weight": 2,
+        "positions": [
+          0
+        ]
+      },
+      {
+        "docId": "uk-general-15",
+        "weight": 2,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "раздел": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1.7,
+        "positions": [
+          0
+        ]
+      },
+      {
+        "docId": "uk-general-15",
+        "weight": 1.7,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "раз*": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1.7,
+        "positions": [
+          0
+        ]
+      },
+      {
+        "docId": "uk-general-15",
+        "weight": 1.7,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "преступлением": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "признается": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          1
+        ]
+      }
+    ],
+    "виновно": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          2
+        ]
+      }
+    ],
+    "вин*": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          2
+        ]
+      }
+    ],
+    "совершенное": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          3
+        ]
+      }
+    ],
+    "сов*": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          3
+        ]
+      }
+    ],
+    "общественно": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          4
+        ]
+      }
+    ],
+    "общ*": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          4
+        ]
+      },
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          6
+        ]
+      }
+    ],
+    "опасное": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          5
+        ]
+      }
+    ],
+    "опа*": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          5
+        ]
+      },
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          7
+        ]
+      }
+    ],
+    "деяние": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          6
+        ]
+      }
+    ],
+    "дея*": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          6
+        ]
+      }
+    ],
+    "запрещенное": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          7
+        ]
+      }
+    ],
+    "зап*": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          7
+        ]
+      }
+    ],
+    "настоящим": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          8
+        ]
+      }
+    ],
+    "нас*": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          8
+        ]
+      }
+    ],
+    "кодексом": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          9
+        ]
+      }
+    ],
+    "код*": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          9
+        ]
+      }
+    ],
+    "под": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          10
+        ]
+      }
+    ],
+    "угрозой": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          11
+        ]
+      }
+    ],
+    "угр*": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          11
+        ]
+      }
+    ],
+    "наказания": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          12
+        ]
+      }
+    ],
+    "нак*": [
+      {
+        "docId": "uk-general-14",
+        "weight": 1,
+        "positions": [
+          12
+        ]
+      }
+    ],
+    "категории": [
+      {
+        "docId": "uk-general-15",
+        "weight": 3,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "кат*": [
+      {
+        "docId": "uk-general-15",
+        "weight": 3,
+        "positions": [
+          0
+        ]
+      }
+    ],
+    "преступлений": [
+      {
+        "docId": "uk-general-15",
+        "weight": 3,
+        "positions": [
+          1
+        ]
+      }
+    ],
+    "по": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          2
+        ]
+      }
+    ],
+    "характеру": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          3
+        ]
+      }
+    ],
+    "хар*": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          3
+        ]
+      }
+    ],
+    "степени": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          5
+        ]
+      }
+    ],
+    "сте*": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          5
+        ]
+      }
+    ],
+    "общественной": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          6
+        ]
+      }
+    ],
+    "опасности": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          7
+        ]
+      }
+    ],
+    "подразделяются": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          8
+        ]
+      }
+    ],
+    "под*": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          8
+        ]
+      }
+    ],
+    "небольшой": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          11
+        ]
+      }
+    ],
+    "неб*": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          11
+        ]
+      }
+    ],
+    "тяжести": [
+      {
+        "docId": "uk-general-15",
+        "weight": 2,
+        "positions": [
+          12,
+          14
+        ]
+      }
+    ],
+    "тяж*": [
+      {
+        "docId": "uk-general-15",
+        "weight": 4,
+        "positions": [
+          12,
+          14,
+          15,
+          18
+        ]
+      }
+    ],
+    "средней": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          13
+        ]
+      }
+    ],
+    "сре*": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          13
+        ]
+      }
+    ],
+    "тяжкие": [
+      {
+        "docId": "uk-general-15",
+        "weight": 2,
+        "positions": [
+          15,
+          18
+        ]
+      }
+    ],
+    "особо": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          17
+        ]
+      }
+    ],
+    "осо*": [
+      {
+        "docId": "uk-general-15",
+        "weight": 1,
+        "positions": [
+          17
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "builtAt": "2025-10-18T20:36:46.831Z"
+  }
+}
